@@ -1,0 +1,3831 @@
+
+
+***********************DNS Packets*************************
+
+Packet Number:1
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:2
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:3
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:4
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:5
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:6
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:7
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:8
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:9
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:10
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:11
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:12
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:13
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:14
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:15
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:16
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.co.in has IPv4 address : 74.125.200.94
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:17
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.co.in has IPv4 address : 74.125.200.94
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:18
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.co.in has IPv4 address : 74.125.200.94
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:19
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : apis.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:20
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : apis.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:21
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : apis.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:22
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:23
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:24
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:25
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
+Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:26
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
+Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:27
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
+Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:28
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:29
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:30
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:31
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : ogs.google.com has alias name : www3.l.google.com
+Name : www3.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:32
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : ogs.google.com has alias name : www3.l.google.com
+Name : www3.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:33
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : ogs.google.com has alias name : www3.l.google.com
+Name : www3.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:34
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:35
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:36
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:37
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:38
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:39
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:40
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:41
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:42
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:43
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:44
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:45
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:46
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:47
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:48
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:49
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : notifications.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:50
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : notifications.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:51
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : notifications.google.com has alias name : plus.l.google.com
+Name : plus.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:52
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:53
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:54
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:55
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:56
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:57
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:58
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:59
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:60
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:61
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.farms.com has alias name : farms.com
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:62
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.farms.com has alias name : farms.com
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:63
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.farms.com has alias name : farms.com
+Name : farms.com has IPv4 address : 216.220.44.168
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:64
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:65
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:66
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:67
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:68
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:69
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:70
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:71
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:72
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:73
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:74
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:75
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:76
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:77
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:78
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:79
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:80
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:81
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:82
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:83
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:84
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:85
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:86
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:87
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:88
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:89
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:90
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:91
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:92
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:93
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:94
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:95
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:96
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:97
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:98
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:99
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:100
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:101
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:102
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:103
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:104
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:105
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:106
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:107
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:108
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:109
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:110
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:111
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:112
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:113
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:114
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:115
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : google.com has IPv4 address : 216.58.199.142
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:116
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : google.com has IPv4 address : 216.58.199.142
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:117
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : google.com has IPv4 address : 216.58.199.142
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:118
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:119
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:120
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:121
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:122
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:123
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:124
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:125
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.com has IPv4 address : 172.217.27.36
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:126
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:127
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:128
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.com has IPv4 address : 172.217.27.36
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:129
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.google.com has IPv4 address : 172.217.27.36
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:130
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:131
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:132
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:133
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
+Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:134
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
+Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:135
+
+
+The response contains : 
+ 1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
+Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
+Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:136
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:137
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:138
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:139
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:140
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:141
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:142
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:143
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:144
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:145
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:146
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:147
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:148
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:149
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:150
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:151
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:152
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:153
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:154
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:155
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:156
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:157
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:158
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:159
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:160
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:161
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:162
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:163
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:164
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:165
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:166
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:167
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:168
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:169
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:170
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:171
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:172
+
+
+The response contains : 
+ 1 Questions.
+ 3 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:173
+
+
+The response contains : 
+ 1 Questions.
+ 3 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:174
+
+
+The response contains : 
+ 1 Questions.
+ 3 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:175
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:176
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:177
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:178
+
+
+The response contains : 
+ 1 Questions.
+ 6 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:179
+
+
+The response contains : 
+ 1 Questions.
+ 6 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:180
+
+
+The response contains : 
+ 1 Questions.
+ 6 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:181
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:182
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:183
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:184
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:185
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:186
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:187
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:188
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:189
+
+
+The response contains : 
+ 1 Questions.
+ 8 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:190
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:191
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:192
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:193
+
+
+The response contains : 
+ 1 Questions.
+ 5 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:194
+
+
+The response contains : 
+ 1 Questions.
+ 5 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:195
+
+
+The response contains : 
+ 1 Questions.
+ 5 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:196
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:197
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:198
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:199
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:200
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:201
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:202
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:203
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:204
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:205
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:206
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:207
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:208
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:209
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:210
+
+
+The response contains : 
+ 1 Questions.
+ 0 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 0 
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:211
+
+
+The response contains : 
+ 1 Questions.
+ 1 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 1 
+Name : de.sex.com has IPv4 address : 206.125.164.82
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:212
+
+
+The response contains : 
+ 1 Questi
