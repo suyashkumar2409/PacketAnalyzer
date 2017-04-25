@@ -1,0 +1,177 @@
+
+
+***********************HTTP Packets*************************
+Packet Number: 1
+GET / HTTP/1.1
+
+Host: www.sex.comConnection: keep-alive
+
+Upgrade-Insecure-Requests: 1
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6Cookie: lngCode=en; _ga=GA1.2.582606883.1493049591; __asc=91d9cf4615ba63fb03c25344d5f; __auc=9608e22315ba0b0c65deddaaaef; _wpn_ad_cookie=a8aa2e19c89065f70909bcd847226d6f
+
+**********************************************************
+
+
+Packet Number: 2
+GET /x.png HTTP/1.1Host: cloudfront-labs.amazonaws.com
+
+Connection: keep-aliveUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: image/webp,image/*,*/*;q=0.8
+
+Referer: http://www.sex.com/
+
+Accept-Encoding: gzip, deflate, sdchAccept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+
+
+**********************************************************
+
+
+Packet Number: 3
+GET /test.png HTTP/1.1
+
+Host: af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net
+
+Connection: keep-aliveUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: image/webp,image/*,*/*;q=0.8Referer: http://www.sex.com/
+
+Accept-Encoding: gzip, deflate, sdchAccept-Language: en-IN,en-US;q=0.8,en;q=0.
+**********************************************************
+
+
+Packet Number: 4
+GET /json/sexsquare-homepagesquare-1xsextower-tower-3xsexfooterdt-1/a8aa2e19c89065f70909bcd847226d6f//sexcom///content.json?v=0.5728696848409638 HTTP/1.1
+
+Host: rpc-php.trafficfactory.biz
+
+Connection: keep-aliveAccept: application/json, text/javascript, */*; q=0.01
+
+Origin: http://www.sex.com
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Referer: http://www.sex.com/
+
+Accept-Encoding: gzip, deflate, sdchAccept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+
+**********************************************************
+
+
+Packet Number: 5
+GET / HTTP/1.1
+
+Host: www.farms.comConnection: keep-alive
+
+Upgrade-Insecure-Requests: 1
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+Cookie: UserInfo=132141063172123063146146107066143164112166112105071161170164130122166061160123063122060164111131=165147057144105110124064061167103163106170053125143105156123146167075075&167063062144150163070060062123157075=061067057057057171102107167145131075&141114057126126132141064071062171147161126062142157122120114131167075075=154101164123157146066111107156101161103144111151132107103124126103144053121121105163116142131141060062125107126062171172146171155053124126103144144151112111162167075075&112161124124152064170114131127063061167112103145141124150160154101075075=053117115071063062106070126066124114156106131105114107116142057101075075&146153154101106147125121131145150066153144067167160101122150112147075075=053117115071063062106070126066124114156106131105114107116142057101075075; __gads=ID=5783b9d2fcea3141:T=1493095051:S=AL
+**********************************************************
+
+
+Packet Number: 6
+1pCEelnTYCCjqI_too_A; __atuvc=1%7C17; .ASPXANONYMOUS=g5JephL00gEkAAAAZGFmMjA1MWUtNjI2MS00YzEzLWIyMzMtNzNiMzRiMDQ0ZWFl8at4EKDXuYUY_hPCms-p5lX3JNwcWDHCNKTiURF7Afo1; zip_=zip=303012; country_=country=India; state_=state=Rajasthan; city_=city=Jaipur; ip_=ip=47.9.128.16; latitude_=latitude=26.91667; longitude_=longitude=75.81667; ASP.NET_SessionId=dseamt452ia0ixax3pfzd145; language=en-US; FarmsInfo=password=; CheckCookie=written 4/25/2017 1:53:45 PM; _ga=GA1.2.736067086.1493095049
+**********************************************************
+
+
+Packet Number: 7
+GET / HTTP/1.1
+
+Host: www.farms.comConnection: keep-alive
+
+Upgrade-Insecure-Requests: 1
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+Cookie: UserInfo=132141063172123063146146107066143164112166112105071161170164130122166061160123063122060164111131=165147057144105110124064061167103163106170053125143105156123146167075075&167063062144150163070060062123157075=061067057057057171102107167145131075&141114057126126132141064071062171147161126062142157122120114131167075075=154101164123157146066111107156101161103144111151132107103124126103144053121121105163116142131141060062125107126062171172146171155053124126103144144151112111162167075075&112161124124152064170114131127063061167112103145141124150160154101075075=053117115071063062106070126066124114156106131105114107116142057101075075&146153154101106147125121131145150066153144067167160101122150112147075075=053117115071063062106070126066124114156106131105114107116142057101075075; __gads=ID=5783b9d2fcea3141:T=1493095051:S=AL
+**********************************************************
+
+
+Packet Number: 8
+1pCEelnTYCCjqI_too_A; __atuvc=1%7C17; .ASPXANONYMOUS=g5JephL00gEkAAAAZGFmMjA1MWUtNjI2MS00YzEzLWIyMzMtNzNiMzRiMDQ0ZWFl8at4EKDXuYUY_hPCms-p5lX3JNwcWDHCNKTiURF7Afo1; zip_=zip=303012; country_=country=India; state_=state=Rajasthan; city_=city=Jaipur; ip_=ip=47.9.128.16; latitude_=latitude=26.91667; longitude_=longitude=75.81667; ASP.NET_SessionId=dseamt452ia0ixax3pfzd145; language=en-US; FarmsInfo=password=; CheckCookie=written 4/25/2017 1:53:45 PM; _ga=GA1.2.736067086.1493095049
+**********************************************************
+
+
+Packet Number: 9
+GET //banners/d9/03/fe/992d43bc07e3e3fdb49521f12f3effd0.gif HTTP/1.1Host: media.trafficfactory.bizConnection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36Accept: image/webp,image/*,*/*;q=0.8
+
+Referer: http://www.sex.com/
+
+Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+If-Modified-Since: Thu, 16 Mar 2017 1
+**********************************************************
+
+
+Packet Number: 10
+GET //banners/6d/cd/26/ccf15f581e50bc9d50c30ce0d18e4e2d.JPG HTTP/1.1Host: media.trafficfactory.bizConnection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36Accept: image/webp,image/*,*/*;q=0.8
+
+Referer: http://www.sex.com/
+
+Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6
+
+If-Modified-Since: Wed, 20 Apr 2016 1
+**********************************************************
+
+
+Packet Number: 11
+GET /images/pinporn/2017/04/06/300/17592891.jpg HTTP/1.1
+
+Host: images.sex.com
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: image/webp,image/*,*/*;q=0.8Referer: http://www.sex.com/Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6Cookie: lngCode=en; _ga=GA1.2.582606883.1493049591; _gat=1; __asc=91d9cf4615ba63fb03c25344d5f; __auc=9608e22315ba0b0c65dedd
+**********************************************************
+
+
+Packet Number: 12
+GET /images/pinporn/2017/04/07/300/17593995.jpg HTTP/1.1
+
+Host: images.sex.com
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+
+Accept: image/webp,image/*,*/*;q=0.8Referer: http://www.sex.com/Accept-Encoding: gzip, deflate, sdch
+
+Accept-Language: en-IN,en-US;q=0.8,en;q=0.6Cookie: lngCode=en; _ga=GA1.2.582606883.1493049591; _gat=1; __asc=91d9cf4615ba63fb03c25344d5f; __auc=9608e22315ba0b0c65dedd
+**********************************************************
+
+
+Packet Number: 13
+GET /images/pinporn/2017/04/12/300/17616841.gif HTTP/1.1
+
+Host: images.sex.com
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/

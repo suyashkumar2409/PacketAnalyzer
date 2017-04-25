@@ -4,10 +4,10 @@
 Packet Number 1
 
 Header
-Source Port      : 42625
+Source Port      : 25552
 Destination Port : 53
-UDP Length       : 42
-UDP Checksum     : 65341
+UDP Length       : 41
+UDP Checksum     : 65340
 
 
 
@@ -15,10 +15,10 @@ UDP Checksum     : 65341
 Packet Number 2
 
 Header
-Source Port      : 42625
+Source Port      : 25552
 Destination Port : 53
-UDP Length       : 42
-UDP Checksum     : 65341
+UDP Length       : 41
+UDP Checksum     : 65340
 
 
 
@@ -26,10 +26,10 @@ UDP Checksum     : 65341
 Packet Number 3
 
 Header
-Source Port      : 26540
+Source Port      : 32832
 Destination Port : 53
-UDP Length       : 42
-UDP Checksum     : 45804
+UDP Length       : 41
+UDP Checksum     : 21529
 
 
 
@@ -37,10 +37,10 @@ UDP Checksum     : 45804
 Packet Number 4
 
 Header
-Source Port      : 63692
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 32832
+UDP Length       : 86
+UDP Checksum     : 42453
 
 
 
@@ -48,10 +48,10 @@ UDP Checksum     : 65340
 Packet Number 5
 
 Header
-Source Port      : 63692
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 25552
+UDP Length       : 86
+UDP Checksum     : 65385
 
 
 
@@ -59,10 +59,10 @@ UDP Checksum     : 65340
 Packet Number 6
 
 Header
-Source Port      : 13250
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 62746
+Source Port      : 53
+Destination Port : 25552
+UDP Length       : 86
+UDP Checksum     : 65385
 
 
 
@@ -70,10 +70,10 @@ UDP Checksum     : 62746
 Packet Number 7
 
 Header
-Source Port      : 44635
+Source Port      : 38973
 Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+UDP Length       : 37
+UDP Checksum     : 65336
 
 
 
@@ -81,10 +81,10 @@ UDP Checksum     : 65340
 Packet Number 8
 
 Header
-Source Port      : 44635
+Source Port      : 38973
 Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+UDP Length       : 37
+UDP Checksum     : 65336
 
 
 
@@ -92,10 +92,10 @@ UDP Checksum     : 65340
 Packet Number 9
 
 Header
-Source Port      : 27056
+Source Port      : 20793
 Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 38684
+UDP Length       : 37
+UDP Checksum     : 24037
 
 
 
@@ -103,10 +103,10 @@ UDP Checksum     : 38684
 Packet Number 10
 
 Header
-Source Port      : 7729
-Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+Source Port      : 5353
+Destination Port : 5353
+UDP Length       : 48
+UDP Checksum     : 48882
 
 
 
@@ -114,10 +114,10 @@ UDP Checksum     : 65350
 Packet Number 11
 
 Header
-Source Port      : 7729
-Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+Source Port      : 5353
+Destination Port : 5353
+UDP Length       : 48
+UDP Checksum     : 48882
 
 
 
@@ -125,10 +125,10 @@ UDP Checksum     : 65350
 Packet Number 12
 
 Header
-Source Port      : 11780
-Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 52579
+Source Port      : 36811
+Destination Port : 1900
+UDP Length       : 179
+UDP Checksum     : 49595
 
 
 
@@ -136,10 +136,10 @@ UDP Checksum     : 52579
 Packet Number 13
 
 Header
-Source Port      : 22929
+Source Port      : 13239
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -147,10 +147,10 @@ UDP Checksum     : 65349
 Packet Number 14
 
 Header
-Source Port      : 22929
+Source Port      : 13239
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -158,10 +158,10 @@ UDP Checksum     : 65349
 Packet Number 15
 
 Header
-Source Port      : 17360
+Source Port      : 19504
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 43399
+UDP Length       : 55
+UDP Checksum     : 48500
 
 
 
@@ -169,10 +169,10 @@ UDP Checksum     : 43399
 Packet Number 16
 
 Header
-Source Port      : 53
-Destination Port : 26540
-UDP Length       : 58
-UDP Checksum     : 24254
+Source Port      : 20242
+Destination Port : 53
+UDP Length       : 40
+UDP Checksum     : 65339
 
 
 
@@ -180,10 +180,10 @@ UDP Checksum     : 24254
 Packet Number 17
 
 Header
-Source Port      : 53
-Destination Port : 42625
-UDP Length       : 58
-UDP Checksum     : 65357
+Source Port      : 20242
+Destination Port : 53
+UDP Length       : 40
+UDP Checksum     : 65339
 
 
 
@@ -191,10 +191,10 @@ UDP Checksum     : 65357
 Packet Number 18
 
 Header
-Source Port      : 53
-Destination Port : 42625
-UDP Length       : 58
-UDP Checksum     : 65357
+Source Port      : 28555
+Destination Port : 53
+UDP Length       : 40
+UDP Checksum     : 30585
 
 
 
@@ -202,10 +202,10 @@ UDP Checksum     : 65357
 Packet Number 19
 
 Header
-Source Port      : 53
-Destination Port : 13250
-UDP Length       : 78
-UDP Checksum     : 56910
+Source Port      : 28139
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -213,10 +213,10 @@ UDP Checksum     : 56910
 Packet Number 20
 
 Header
-Source Port      : 53
-Destination Port : 63692
-UDP Length       : 78
-UDP Checksum     : 65377
+Source Port      : 28139
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -224,10 +224,10 @@ UDP Checksum     : 65377
 Packet Number 21
 
 Header
-Source Port      : 53
-Destination Port : 63692
-UDP Length       : 78
-UDP Checksum     : 65377
+Source Port      : 55692
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 16048
 
 
 
@@ -235,10 +235,10 @@ UDP Checksum     : 65377
 Packet Number 22
 
 Header
-Source Port      : 5696
+Source Port      : 21611
 Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -246,10 +246,10 @@ UDP Checksum     : 65339
 Packet Number 23
 
 Header
-Source Port      : 5696
+Source Port      : 21611
 Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -257,10 +257,10 @@ UDP Checksum     : 65339
 Packet Number 24
 
 Header
-Source Port      : 56233
+Source Port      : 56363
 Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 32893
+UDP Length       : 52
+UDP Checksum     : 65533
 
 
 
@@ -268,10 +268,10 @@ UDP Checksum     : 32893
 Packet Number 25
 
 Header
-Source Port      : 53
-Destination Port : 11780
-UDP Length       : 96
-UDP Checksum     : 76
+Source Port      : 49006
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -279,10 +279,10 @@ UDP Checksum     : 76
 Packet Number 26
 
 Header
-Source Port      : 53
-Destination Port : 7729
-UDP Length       : 96
-UDP Checksum     : 65395
+Source Port      : 49006
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -290,10 +290,10 @@ UDP Checksum     : 65395
 Packet Number 27
 
 Header
-Source Port      : 53
-Destination Port : 7729
-UDP Length       : 96
-UDP Checksum     : 65395
+Source Port      : 46020
+Destination Port : 53
+UDP Length       : 50
+UDP Checksum     : 46549
 
 
 
@@ -301,10 +301,10 @@ UDP Checksum     : 65395
 Packet Number 28
 
 Header
-Source Port      : 4314
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 19504
+UDP Length       : 71
+UDP Checksum     : 52480
 
 
 
@@ -312,10 +312,10 @@ UDP Checksum     : 65340
 Packet Number 29
 
 Header
-Source Port      : 4314
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 13239
+UDP Length       : 71
+UDP Checksum     : 65370
 
 
 
@@ -323,10 +323,10 @@ UDP Checksum     : 65340
 Packet Number 30
 
 Header
-Source Port      : 34997
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 4742
+Source Port      : 53
+Destination Port : 13239
+UDP Length       : 71
+UDP Checksum     : 65370
 
 
 
@@ -334,10 +334,10 @@ UDP Checksum     : 4742
 Packet Number 31
 
 Header
-Source Port      : 53
-Destination Port : 56233
-UDP Length       : 77
-UDP Checksum     : 19799
+Source Port      : 40590
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -345,10 +345,10 @@ UDP Checksum     : 19799
 Packet Number 32
 
 Header
-Source Port      : 53
-Destination Port : 5696
-UDP Length       : 77
-UDP Checksum     : 65376
+Source Port      : 40590
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -356,10 +356,10 @@ UDP Checksum     : 65376
 Packet Number 33
 
 Header
-Source Port      : 53
-Destination Port : 5696
-UDP Length       : 77
-UDP Checksum     : 65376
+Source Port      : 13432
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 28632
 
 
 
@@ -367,10 +367,10 @@ UDP Checksum     : 65376
 Packet Number 34
 
 Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 48
-UDP Checksum     : 48882
+Source Port      : 53
+Destination Port : 28555
+UDP Length       : 56
+UDP Checksum     : 50021
 
 
 
@@ -378,10 +378,10 @@ UDP Checksum     : 48882
 Packet Number 35
 
 Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 48
-UDP Checksum     : 48882
+Source Port      : 53
+Destination Port : 20242
+UDP Length       : 56
+UDP Checksum     : 65355
 
 
 
@@ -389,10 +389,10 @@ UDP Checksum     : 48882
 Packet Number 36
 
 Header
-Source Port      : 33643
-Destination Port : 1900
-UDP Length       : 179
-UDP Checksum     : 52763
+Source Port      : 53
+Destination Port : 20242
+UDP Length       : 56
+UDP Checksum     : 65355
 
 
 
@@ -400,10 +400,10 @@ UDP Checksum     : 52763
 Packet Number 37
 
 Header
-Source Port      : 16479
+Source Port      : 18405
 Destination Port : 53
-UDP Length       : 35
-UDP Checksum     : 65334
+UDP Length       : 47
+UDP Checksum     : 65346
 
 
 
@@ -411,10 +411,10 @@ UDP Checksum     : 65334
 Packet Number 38
 
 Header
-Source Port      : 16479
+Source Port      : 18405
 Destination Port : 53
-UDP Length       : 35
-UDP Checksum     : 65334
+UDP Length       : 47
+UDP Checksum     : 65346
 
 
 
@@ -422,10 +422,10 @@ UDP Checksum     : 65334
 Packet Number 39
 
 Header
-Source Port      : 46840
+Source Port      : 26957
 Destination Port : 53
-UDP Length       : 35
-UDP Checksum     : 37206
+UDP Length       : 47
+UDP Checksum     : 9529
 
 
 
@@ -433,10 +433,10 @@ UDP Checksum     : 37206
 Packet Number 40
 
 Header
-Source Port      : 38532
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 56363
+UDP Length       : 148
+UDP Checksum     : 38412
 
 
 
@@ -444,10 +444,10 @@ UDP Checksum     : 65340
 Packet Number 41
 
 Header
-Source Port      : 38532
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 21611
+UDP Length       : 148
+UDP Checksum     : 65447
 
 
 
@@ -455,10 +455,10 @@ UDP Checksum     : 65340
 Packet Number 42
 
 Header
-Source Port      : 36787
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 59896
+Source Port      : 53
+Destination Port : 21611
+UDP Length       : 148
+UDP Checksum     : 65447
 
 
 
@@ -466,10 +466,10 @@ UDP Checksum     : 59896
 Packet Number 43
 
 Header
-Source Port      : 31717
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+Source Port      : 53
+Destination Port : 46020
+UDP Length       : 142
+UDP Checksum     : 51180
 
 
 
@@ -477,10 +477,10 @@ UDP Checksum     : 65349
 Packet Number 44
 
 Header
-Source Port      : 31717
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+Source Port      : 53
+Destination Port : 49006
+UDP Length       : 142
+UDP Checksum     : 65441
 
 
 
@@ -488,10 +488,10 @@ UDP Checksum     : 65349
 Packet Number 45
 
 Header
-Source Port      : 24911
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 60728
+Source Port      : 53
+Destination Port : 49006
+UDP Length       : 142
+UDP Checksum     : 65441
 
 
 
@@ -499,10 +499,10 @@ UDP Checksum     : 60728
 Packet Number 46
 
 Header
-Source Port      : 53
-Destination Port : 46840
-UDP Length       : 51
-UDP Checksum     : 18629
+Source Port      : 34398
+Destination Port : 53
+UDP Length       : 49
+UDP Checksum     : 65348
 
 
 
@@ -510,10 +510,10 @@ UDP Checksum     : 18629
 Packet Number 47
 
 Header
-Source Port      : 53
-Destination Port : 16479
-UDP Length       : 51
-UDP Checksum     : 65350
+Source Port      : 34398
+Destination Port : 53
+UDP Length       : 49
+UDP Checksum     : 65348
 
 
 
@@ -521,10 +521,10 @@ UDP Checksum     : 65350
 Packet Number 48
 
 Header
-Source Port      : 53
-Destination Port : 16479
-UDP Length       : 51
-UDP Checksum     : 65350
+Source Port      : 59108
+Destination Port : 53
+UDP Length       : 49
+UDP Checksum     : 27035
 
 
 
@@ -533,9 +533,9 @@ Packet Number 49
 
 Header
 Source Port      : 53
-Destination Port : 36787
-UDP Length       : 86
-UDP Checksum     : 65006
+Destination Port : 13432
+UDP Length       : 320
+UDP Checksum     : 25485
 
 
 
@@ -544,9 +544,9 @@ Packet Number 50
 
 Header
 Source Port      : 53
-Destination Port : 38532
-UDP Length       : 86
-UDP Checksum     : 65385
+Destination Port : 40590
+UDP Length       : 320
+UDP Checksum     : 84
 
 
 
@@ -555,9 +555,9 @@ Packet Number 51
 
 Header
 Source Port      : 53
-Destination Port : 38532
-UDP Length       : 86
-UDP Checksum     : 65385
+Destination Port : 40590
+UDP Length       : 320
+UDP Checksum     : 84
 
 
 
@@ -566,9 +566,9 @@ Packet Number 52
 
 Header
 Source Port      : 53
-Destination Port : 24911
-UDP Length       : 87
-UDP Checksum     : 2063
+Destination Port : 26957
+UDP Length       : 172
+UDP Checksum     : 25320
 
 
 
@@ -577,9 +577,9 @@ Packet Number 53
 
 Header
 Source Port      : 53
-Destination Port : 31717
-UDP Length       : 87
-UDP Checksum     : 65386
+Destination Port : 59108
+UDP Length       : 135
+UDP Checksum     : 6317
 
 
 
@@ -588,9 +588,9 @@ Packet Number 54
 
 Header
 Source Port      : 53
-Destination Port : 31717
-UDP Length       : 87
-UDP Checksum     : 65386
+Destination Port : 18405
+UDP Length       : 172
+UDP Checksum     : 65471
 
 
 
@@ -598,10 +598,10 @@ UDP Checksum     : 65386
 Packet Number 55
 
 Header
-Source Port      : 23671
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 18405
+UDP Length       : 172
+UDP Checksum     : 65471
 
 
 
@@ -609,10 +609,10 @@ UDP Checksum     : 65340
 Packet Number 56
 
 Header
-Source Port      : 23671
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+Source Port      : 53
+Destination Port : 34398
+UDP Length       : 135
+UDP Checksum     : 65434
 
 
 
@@ -620,10 +620,10 @@ UDP Checksum     : 65340
 Packet Number 57
 
 Header
-Source Port      : 21528
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 1283
+Source Port      : 53
+Destination Port : 34398
+UDP Length       : 135
+UDP Checksum     : 65434
 
 
 
@@ -631,10 +631,10 @@ UDP Checksum     : 1283
 Packet Number 58
 
 Header
-Source Port      : 21381
-Destination Port : 53
-UDP Length       : 39
-UDP Checksum     : 65338
+Source Port      : 53
+Destination Port : 20793
+UDP Length       : 102
+UDP Checksum     : 38554
 
 
 
@@ -642,10 +642,10 @@ UDP Checksum     : 65338
 Packet Number 59
 
 Header
-Source Port      : 21381
-Destination Port : 53
-UDP Length       : 39
-UDP Checksum     : 65338
+Source Port      : 53
+Destination Port : 38973
+UDP Length       : 102
+UDP Checksum     : 65401
 
 
 
@@ -653,48 +653,15 @@ UDP Checksum     : 65338
 Packet Number 60
 
 Header
-Source Port      : 38161
-Destination Port : 53
-UDP Length       : 39
-UDP Checksum     : 33417
+Source Port      : 53
+Destination Port : 38973
+UDP Length       : 102
+UDP Checksum     : 65401
 
 
 
 **********************************************************
 Packet Number 61
-
-Header
-Source Port      : 53
-Destination Port : 21528
-UDP Length       : 57
-UDP Checksum     : 29693
-
-
-
-**********************************************************
-Packet Number 62
-
-Header
-Source Port      : 53
-Destination Port : 23671
-UDP Length       : 57
-UDP Checksum     : 65356
-
-
-
-**********************************************************
-Packet Number 63
-
-Header
-Source Port      : 53
-Destination Port : 23671
-UDP Length       : 57
-UDP Checksum     : 65356
-
-
-
-**********************************************************
-Packet Number 64
 
 Header
 Source Port      : 5353
@@ -705,13 +672,46 @@ UDP Checksum     : 48882
 
 
 **********************************************************
+Packet Number 62
+
+Header
+Source Port      : 36811
+Destination Port : 1900
+UDP Length       : 179
+UDP Checksum     : 49595
+
+
+
+**********************************************************
+Packet Number 63
+
+Header
+Source Port      : 21790
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 65341
+
+
+
+**********************************************************
+Packet Number 64
+
+Header
+Source Port      : 21790
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 65341
+
+
+
+**********************************************************
 Packet Number 65
 
 Header
-Source Port      : 33643
-Destination Port : 1900
-UDP Length       : 179
-UDP Checksum     : 52763
+Source Port      : 1137
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 61715
 
 
 
@@ -719,10 +719,10 @@ UDP Checksum     : 52763
 Packet Number 66
 
 Header
-Source Port      : 53
-Destination Port : 38161
-UDP Length       : 69
-UDP Checksum     : 57392
+Source Port      : 10427
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -730,10 +730,10 @@ UDP Checksum     : 57392
 Packet Number 67
 
 Header
-Source Port      : 53
-Destination Port : 21381
-UDP Length       : 69
-UDP Checksum     : 65368
+Source Port      : 10427
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -741,10 +741,10 @@ UDP Checksum     : 65368
 Packet Number 68
 
 Header
-Source Port      : 53
-Destination Port : 21381
-UDP Length       : 69
-UDP Checksum     : 65368
+Source Port      : 12665
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 26852
 
 
 
@@ -752,10 +752,10 @@ UDP Checksum     : 65368
 Packet Number 69
 
 Header
-Source Port      : 20074
+Source Port      : 42721
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -763,10 +763,10 @@ UDP Checksum     : 65350
 Packet Number 70
 
 Header
-Source Port      : 20074
+Source Port      : 42721
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -774,10 +774,10 @@ UDP Checksum     : 65350
 Packet Number 71
 
 Header
-Source Port      : 7497
+Source Port      : 14824
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 15976
+UDP Length       : 36
+UDP Checksum     : 40975
 
 
 
@@ -785,10 +785,10 @@ UDP Checksum     : 15976
 Packet Number 72
 
 Header
-Source Port      : 35482
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 65354
+Source Port      : 53
+Destination Port : 1137
+UDP Length       : 74
+UDP Checksum     : 56940
 
 
 
@@ -796,10 +796,10 @@ UDP Checksum     : 65354
 Packet Number 73
 
 Header
-Source Port      : 35482
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 65354
+Source Port      : 53
+Destination Port : 12665
+UDP Length       : 52
+UDP Checksum     : 46272
 
 
 
@@ -807,10 +807,10 @@ UDP Checksum     : 65354
 Packet Number 74
 
 Header
-Source Port      : 1850
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 63579
+Source Port      : 53
+Destination Port : 21790
+UDP Length       : 74
+UDP Checksum     : 65373
 
 
 
@@ -818,10 +818,10 @@ UDP Checksum     : 63579
 Packet Number 75
 
 Header
-Source Port      : 58670
-Destination Port : 53
-UDP Length       : 52
-UDP Checksum     : 65351
+Source Port      : 53
+Destination Port : 21790
+UDP Length       : 74
+UDP Checksum     : 65373
 
 
 
@@ -829,8 +829,8 @@ UDP Checksum     : 65351
 Packet Number 76
 
 Header
-Source Port      : 58670
-Destination Port : 53
+Source Port      : 53
+Destination Port : 10427
 UDP Length       : 52
 UDP Checksum     : 65351
 
@@ -840,10 +840,10 @@ UDP Checksum     : 65351
 Packet Number 77
 
 Header
-Source Port      : 60094
-Destination Port : 53
+Source Port      : 53
+Destination Port : 10427
 UDP Length       : 52
-UDP Checksum     : 258
+UDP Checksum     : 65351
 
 
 
@@ -851,10 +851,10 @@ UDP Checksum     : 258
 Packet Number 78
 
 Header
-Source Port      : 30976
+Source Port      : 43709
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -862,10 +862,10 @@ UDP Checksum     : 65350
 Packet Number 79
 
 Header
-Source Port      : 30976
+Source Port      : 43709
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -873,10 +873,10 @@ UDP Checksum     : 65350
 Packet Number 80
 
 Header
-Source Port      : 39517
+Source Port      : 59468
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 62279
+UDP Length       : 36
+UDP Checksum     : 26530
 
 
 
@@ -884,10 +884,10 @@ UDP Checksum     : 62279
 Packet Number 81
 
 Header
-Source Port      : 43092
+Source Port      : 31538
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -895,10 +895,10 @@ UDP Checksum     : 65350
 Packet Number 82
 
 Header
-Source Port      : 43092
+Source Port      : 31538
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -906,10 +906,10 @@ UDP Checksum     : 65350
 Packet Number 83
 
 Header
-Source Port      : 6913
+Source Port      : 11619
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 8257
+UDP Length       : 36
+UDP Checksum     : 60379
 
 
 
@@ -917,10 +917,10 @@ UDP Checksum     : 8257
 Packet Number 84
 
 Header
-Source Port      : 61506
+Source Port      : 50152
 Destination Port : 53
-UDP Length       : 53
-UDP Checksum     : 65352
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -928,10 +928,10 @@ UDP Checksum     : 65352
 Packet Number 85
 
 Header
-Source Port      : 61506
+Source Port      : 50152
 Destination Port : 53
-UDP Length       : 53
-UDP Checksum     : 65352
+UDP Length       : 50
+UDP Checksum     : 65349
 
 
 
@@ -939,10 +939,10 @@ UDP Checksum     : 65352
 Packet Number 86
 
 Header
-Source Port      : 13392
+Source Port      : 5227
 Destination Port : 53
-UDP Length       : 53
-UDP Checksum     : 23616
+UDP Length       : 50
+UDP Checksum     : 28806
 
 
 
@@ -951,9 +951,9 @@ Packet Number 87
 
 Header
 Source Port      : 53
-Destination Port : 1850
-UDP Length       : 111
-UDP Checksum     : 50449
+Destination Port : 59468
+UDP Length       : 52
+UDP Checksum     : 45951
 
 
 
@@ -962,9 +962,9 @@ Packet Number 88
 
 Header
 Source Port      : 53
-Destination Port : 35482
-UDP Length       : 111
-UDP Checksum     : 65410
+Destination Port : 43709
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -973,9 +973,9 @@ Packet Number 89
 
 Header
 Source Port      : 53
-Destination Port : 35482
-UDP Length       : 111
-UDP Checksum     : 65410
+Destination Port : 43709
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -983,10 +983,10 @@ UDP Checksum     : 65410
 Packet Number 90
 
 Header
-Source Port      : 24726
+Source Port      : 30536
 Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 65355
+UDP Length       : 46
+UDP Checksum     : 65345
 
 
 
@@ -994,10 +994,10 @@ UDP Checksum     : 65355
 Packet Number 91
 
 Header
-Source Port      : 24726
+Source Port      : 30536
 Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 65355
+UDP Length       : 46
+UDP Checksum     : 65345
 
 
 
@@ -1005,10 +1005,10 @@ UDP Checksum     : 65355
 Packet Number 92
 
 Header
-Source Port      : 25914
+Source Port      : 44030
 Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 43069
+UDP Length       : 46
+UDP Checksum     : 53265
 
 
 
@@ -1017,9 +1017,9 @@ Packet Number 93
 
 Header
 Source Port      : 53
-Destination Port : 39517
-UDP Length       : 110
-UDP Checksum     : 5838
+Destination Port : 11619
+UDP Length       : 52
+UDP Checksum     : 14265
 
 
 
@@ -1028,9 +1028,9 @@ Packet Number 94
 
 Header
 Source Port      : 53
-Destination Port : 13392
-UDP Length       : 94
-UDP Checksum     : 24306
+Destination Port : 31538
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1039,9 +1039,9 @@ Packet Number 95
 
 Header
 Source Port      : 53
-Destination Port : 30976
-UDP Length       : 110
-UDP Checksum     : 65409
+Destination Port : 31538
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1049,10 +1049,10 @@ UDP Checksum     : 65409
 Packet Number 96
 
 Header
-Source Port      : 53
-Destination Port : 30976
-UDP Length       : 110
-UDP Checksum     : 65409
+Source Port      : 43387
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1060,10 +1060,10 @@ UDP Checksum     : 65409
 Packet Number 97
 
 Header
-Source Port      : 53
-Destination Port : 61506
-UDP Length       : 94
-UDP Checksum     : 65393
+Source Port      : 43387
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1071,10 +1071,10 @@ UDP Checksum     : 65393
 Packet Number 98
 
 Header
-Source Port      : 53
-Destination Port : 61506
-UDP Length       : 94
-UDP Checksum     : 65393
+Source Port      : 7496
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 21136
 
 
 
@@ -1082,10 +1082,10 @@ UDP Checksum     : 65393
 Packet Number 99
 
 Header
-Source Port      : 33643
-Destination Port : 1900
-UDP Length       : 179
-UDP Checksum     : 52763
+Source Port      : 53
+Destination Port : 5227
+UDP Length       : 196
+UDP Checksum     : 52368
 
 
 
@@ -1094,9 +1094,9 @@ Packet Number 100
 
 Header
 Source Port      : 53
-Destination Port : 60094
-UDP Length       : 164
-UDP Checksum     : 31502
+Destination Port : 50152
+UDP Length       : 196
+UDP Checksum     : 65495
 
 
 
@@ -1105,9 +1105,9 @@ Packet Number 101
 
 Header
 Source Port      : 53
-Destination Port : 58670
-UDP Length       : 164
-UDP Checksum     : 65463
+Destination Port : 50152
+UDP Length       : 196
+UDP Checksum     : 65495
 
 
 
@@ -1116,9 +1116,9 @@ Packet Number 102
 
 Header
 Source Port      : 53
-Destination Port : 58670
-UDP Length       : 164
-UDP Checksum     : 65463
+Destination Port : 7496
+UDP Length       : 52
+UDP Checksum     : 40557
 
 
 
@@ -1127,9 +1127,9 @@ Packet Number 103
 
 Header
 Source Port      : 53
-Destination Port : 7497
-UDP Length       : 163
-UDP Checksum     : 12799
+Destination Port : 43387
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1138,9 +1138,9 @@ Packet Number 104
 
 Header
 Source Port      : 53
-Destination Port : 20074
-UDP Length       : 163
-UDP Checksum     : 65462
+Destination Port : 43387
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1148,10 +1148,10 @@ UDP Checksum     : 65462
 Packet Number 105
 
 Header
-Source Port      : 53
-Destination Port : 20074
-UDP Length       : 163
-UDP Checksum     : 65462
+Source Port      : 60541
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1159,10 +1159,10 @@ UDP Checksum     : 65462
 Packet Number 106
 
 Header
-Source Port      : 33990
+Source Port      : 60541
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1170,10 +1170,10 @@ UDP Checksum     : 65350
 Packet Number 107
 
 Header
-Source Port      : 33990
+Source Port      : 64978
 Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 65350
+UDP Length       : 36
+UDP Checksum     : 64731
 
 
 
@@ -1181,10 +1181,10 @@ UDP Checksum     : 65350
 Packet Number 108
 
 Header
-Source Port      : 57420
-Destination Port : 53
-UDP Length       : 51
-UDP Checksum     : 51917
+Source Port      : 53
+Destination Port : 44030
+UDP Length       : 215
+UDP Checksum     : 673
 
 
 
@@ -1192,10 +1192,10 @@ UDP Checksum     : 51917
 Packet Number 109
 
 Header
-Source Port      : 36758
-Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 65355
+Source Port      : 53
+Destination Port : 30536
+UDP Length       : 215
+UDP Checksum     : 65514
 
 
 
@@ -1203,10 +1203,10 @@ UDP Checksum     : 65355
 Packet Number 110
 
 Header
-Source Port      : 36758
-Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 65355
+Source Port      : 53
+Destination Port : 30536
+UDP Length       : 215
+UDP Checksum     : 65514
 
 
 
@@ -1214,10 +1214,10 @@ UDP Checksum     : 65355
 Packet Number 111
 
 Header
-Source Port      : 64448
+Source Port      : 13452
 Destination Port : 53
-UDP Length       : 56
-UDP Checksum     : 61989
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1225,10 +1225,10 @@ UDP Checksum     : 61989
 Packet Number 112
 
 Header
-Source Port      : 53
-Destination Port : 57420
-UDP Length       : 107
-UDP Checksum     : 37812
+Source Port      : 13452
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1236,10 +1236,10 @@ UDP Checksum     : 37812
 Packet Number 113
 
 Header
-Source Port      : 53
-Destination Port : 33990
-UDP Length       : 107
-UDP Checksum     : 65406
+Source Port      : 23818
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 56711
 
 
 
@@ -1248,9 +1248,9 @@ Packet Number 114
 
 Header
 Source Port      : 53
-Destination Port : 33990
-UDP Length       : 107
-UDP Checksum     : 65406
+Destination Port : 64978
+UDP Length       : 52
+UDP Checksum     : 18617
 
 
 
@@ -1259,9 +1259,9 @@ Packet Number 115
 
 Header
 Source Port      : 53
-Destination Port : 64448
-UDP Length       : 98
-UDP Checksum     : 7186
+Destination Port : 60541
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1270,9 +1270,9 @@ Packet Number 116
 
 Header
 Source Port      : 53
-Destination Port : 36758
-UDP Length       : 98
-UDP Checksum     : 65397
+Destination Port : 60541
+UDP Length       : 52
+UDP Checksum     : 65351
 
 
 
@@ -1280,10 +1280,10 @@ UDP Checksum     : 65397
 Packet Number 117
 
 Header
-Source Port      : 53
-Destination Port : 36758
-UDP Length       : 98
-UDP Checksum     : 65397
+Source Port      : 51319
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1291,10 +1291,10 @@ UDP Checksum     : 65397
 Packet Number 118
 
 Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 48
-UDP Checksum     : 48882
+Source Port      : 51319
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1302,10 +1302,10 @@ UDP Checksum     : 48882
 Packet Number 119
 
 Header
-Source Port      : 33643
-Destination Port : 1900
-UDP Length       : 179
-UDP Checksum     : 52763
+Source Port      : 39212
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 748
 
 
 
@@ -1313,10 +1313,10 @@ UDP Checksum     : 52763
 Packet Number 120
 
 Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 53
-UDP Checksum     : 1926
+Source Port      : 36066
+Destination Port : 53
+UDP Length       : 54
+UDP Checksum     : 65353
 
 
 
@@ -1324,10 +1324,10 @@ UDP Checksum     : 1926
 Packet Number 121
 
 Header
-Source Port      : 18769
+Source Port      : 36066
 Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
+UDP Length       : 54
+UDP Checksum     : 65353
 
 
 
@@ -1335,10 +1335,10 @@ UDP Checksum     : 65335
 Packet Number 122
 
 Header
-Source Port      : 18769
+Source Port      : 17204
 Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
+UDP Length       : 54
+UDP Checksum     : 31949
 
 
 
@@ -1346,10 +1346,10 @@ UDP Checksum     : 65335
 Packet Number 123
 
 Header
-Source Port      : 54729
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 49969
+Source Port      : 53
+Destination Port : 39212
+UDP Length       : 52
+UDP Checksum     : 20168
 
 
 
@@ -1358,9 +1358,9 @@ Packet Number 124
 
 Header
 Source Port      : 53
-Destination Port : 54729
+Destination Port : 51319
 UDP Length       : 52
-UDP Checksum     : 57994
+UDP Checksum     : 65351
 
 
 
@@ -1369,7 +1369,7 @@ Packet Number 125
 
 Header
 Source Port      : 53
-Destination Port : 18769
+Destination Port : 51319
 UDP Length       : 52
 UDP Checksum     : 65351
 
@@ -1379,10 +1379,10 @@ UDP Checksum     : 65351
 Packet Number 126
 
 Header
-Source Port      : 53
-Destination Port : 18769
-UDP Length       : 52
-UDP Checksum     : 65351
+Source Port      : 1392
+Destination Port : 53
+UDP Length       : 37
+UDP Checksum     : 65336
 
 
 
@@ -1390,10 +1390,10 @@ UDP Checksum     : 65351
 Packet Number 127
 
 Header
-Source Port      : 34228
+Source Port      : 1392
 Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+UDP Length       : 37
+UDP Checksum     : 65336
 
 
 
@@ -1401,10 +1401,10 @@ UDP Checksum     : 65340
 Packet Number 128
 
 Header
-Source Port      : 34228
+Source Port      : 65127
 Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 65340
+UDP Length       : 37
+UDP Checksum     : 38935
 
 
 
@@ -1412,10 +1412,10 @@ UDP Checksum     : 65340
 Packet Number 129
 
 Header
-Source Port      : 31587
-Destination Port : 53
-UDP Length       : 41
-UDP Checksum     : 38171
+Source Port      : 53
+Destination Port : 17204
+UDP Length       : 319
+UDP Checksum     : 17562
 
 
 
@@ -1423,10 +1423,10 @@ UDP Checksum     : 38171
 Packet Number 130
 
 Header
-Source Port      : 16910
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
+Source Port      : 53
+Destination Port : 36066
+UDP Length       : 319
+UDP Checksum     : 83
 
 
 
@@ -1434,10 +1434,10 @@ UDP Checksum     : 65339
 Packet Number 131
 
 Header
-Source Port      : 16910
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
+Source Port      : 53
+Destination Port : 36066
+UDP Length       : 319
+UDP Checksum     : 83
 
 
 
@@ -1445,10 +1445,10 @@ UDP Checksum     : 65339
 Packet Number 132
 
 Header
-Source Port      : 34922
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 46023
+Source Port      : 53
+Destination Port : 65127
+UDP Length       : 234
+UDP Checksum     : 63956
 
 
 
@@ -1457,9 +1457,9 @@ Packet Number 133
 
 Header
 Source Port      : 53
-Destination Port : 31587
-UDP Length       : 57
-UDP Checksum     : 7958
+Destination Port : 1392
+UDP Length       : 234
+UDP Checksum     : 65533
 
 
 
@@ -1468,9 +1468,9 @@ Packet Number 134
 
 Header
 Source Port      : 53
-Destination Port : 34922
-UDP Length       : 56
-UDP Checksum     : 43759
+Destination Port : 1392
+UDP Length       : 234
+UDP Checksum     : 65533
 
 
 
@@ -1478,10 +1478,10 @@ UDP Checksum     : 43759
 Packet Number 135
 
 Header
-Source Port      : 53
-Destination Port : 34228
-UDP Length       : 57
-UDP Checksum     : 65356
+Source Port      : 36811
+Destination Port : 1900
+UDP Length       : 179
+UDP Checksum     : 49595
 
 
 
@@ -1489,10 +1489,10 @@ UDP Checksum     : 65356
 Packet Number 136
 
 Header
-Source Port      : 53
-Destination Port : 34228
-UDP Length       : 57
-UDP Checksum     : 65356
+Source Port      : 35748
+Destination Port : 53
+UDP Length       : 88
+UDP Checksum     : 65387
 
 
 
@@ -1500,10 +1500,10 @@ UDP Checksum     : 65356
 Packet Number 137
 
 Header
-Source Port      : 53
-Destination Port : 16910
-UDP Length       : 56
-UDP Checksum     : 65355
+Source Port      : 35748
+Destination Port : 53
+UDP Length       : 88
+UDP Checksum     : 65387
 
 
 
@@ -1511,10 +1511,10 @@ UDP Checksum     : 65355
 Packet Number 138
 
 Header
-Source Port      : 53
-Destination Port : 16910
-UDP Length       : 56
-UDP Checksum     : 65355
+Source Port      : 21222
+Destination Port : 53
+UDP Length       : 88
+UDP Checksum     : 31116
 
 
 
@@ -1522,10 +1522,10 @@ UDP Checksum     : 65355
 Packet Number 139
 
 Header
-Source Port      : 17985
-Destination Port : 53
-UDP Length       : 57
-UDP Checksum     : 65356
+Source Port      : 53
+Destination Port : 21222
+UDP Length       : 353
+UDP Checksum     : 45504
 
 
 
@@ -1533,10 +1533,10 @@ UDP Checksum     : 65356
 Packet Number 140
 
 Header
-Source Port      : 17985
-Destination Port : 53
-UDP Length       : 57
-UDP Checksum     : 65356
+Source Port      : 53
+Destination Port : 35748
+UDP Length       : 353
+UDP Checksum     : 117
 
 
 
@@ -1544,10 +1544,10 @@ UDP Checksum     : 65356
 Packet Number 141
 
 Header
-Source Port      : 21542
-Destination Port : 53
-UDP Length       : 57
-UDP Checksum     : 41152
+Source Port      : 53
+Destination Port : 35748
+UDP Length       : 353
+UDP Checksum     : 117
 
 
 
@@ -1555,10 +1555,10 @@ UDP Checksum     : 41152
 Packet Number 142
 
 Header
-Source Port      : 53
-Destination Port : 21542
-UDP Length       : 142
-UDP Checksum     : 33148
+Source Port      : 32310
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 65341
 
 
 
@@ -1566,10 +1566,10 @@ UDP Checksum     : 33148
 Packet Number 143
 
 Header
-Source Port      : 53
-Destination Port : 17985
-UDP Length       : 142
-UDP Checksum     : 65441
+Source Port      : 32310
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 65341
 
 
 
@@ -1577,10 +1577,10 @@ UDP Checksum     : 65441
 Packet Number 144
 
 Header
-Source Port      : 53
-Destination Port : 17985
-UDP Length       : 142
-UDP Checksum     : 65441
+Source Port      : 39017
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 14744
 
 
 
@@ -1588,10 +1588,10 @@ UDP Checksum     : 65441
 Packet Number 145
 
 Header
-Source Port      : 61368
+Source Port      : 36790
 Destination Port : 53
-UDP Length       : 37
-UDP Checksum     : 65336
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1599,10 +1599,10 @@ UDP Checksum     : 65336
 Packet Number 146
 
 Header
-Source Port      : 61368
+Source Port      : 36790
 Destination Port : 53
-UDP Length       : 37
-UDP Checksum     : 65336
+UDP Length       : 36
+UDP Checksum     : 65335
 
 
 
@@ -1610,10 +1610,10 @@ UDP Checksum     : 65336
 Packet Number 147
 
 Header
-Source Port      : 52870
+Source Port      : 48579
 Destination Port : 53
-UDP Length       : 37
-UDP Checksum     : 60607
+UDP Length       : 36
+UDP Checksum     : 64572
 
 
 
@@ -1621,10 +1621,10 @@ UDP Checksum     : 60607
 Packet Number 148
 
 Header
-Source Port      : 53
-Destination Port : 52870
-UDP Length       : 53
-UDP Checksum     : 51434
+Source Port      : 36526
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1632,10 +1632,10 @@ UDP Checksum     : 51434
 Packet Number 149
 
 Header
-Source Port      : 53
-Destination Port : 61368
-UDP Length       : 53
-UDP Checksum     : 65352
+Source Port      : 36526
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1643,10 +1643,10 @@ UDP Checksum     : 65352
 Packet Number 150
 
 Header
-Source Port      : 53
-Destination Port : 61368
-UDP Length       : 53
-UDP Checksum     : 65352
+Source Port      : 12538
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 46136
 
 
 
@@ -1654,7 +1654,7 @@ UDP Checksum     : 65352
 Packet Number 151
 
 Header
-Source Port      : 46262
+Source Port      : 57606
 Destination Port : 53
 UDP Length       : 55
 UDP Checksum     : 65354
@@ -1665,7 +1665,7 @@ UDP Checksum     : 65354
 Packet Number 152
 
 Header
-Source Port      : 46262
+Source Port      : 57606
 Destination Port : 53
 UDP Length       : 55
 UDP Checksum     : 65354
@@ -1676,10 +1676,10 @@ UDP Checksum     : 65354
 Packet Number 153
 
 Header
-Source Port      : 49760
+Source Port      : 44210
 Destination Port : 53
 UDP Length       : 55
-UDP Checksum     : 46574
+UDP Checksum     : 39450
 
 
 
@@ -1687,73 +1687,7 @@ UDP Checksum     : 46574
 Packet Number 154
 
 Header
-Source Port      : 42495
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
-
-
-
-**********************************************************
-Packet Number 155
-
-Header
-Source Port      : 42495
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 65339
-
-
-
-**********************************************************
-Packet Number 156
-
-Header
-Source Port      : 52651
-Destination Port : 53
-UDP Length       : 40
-UDP Checksum     : 31033
-
-
-
-**********************************************************
-Packet Number 157
-
-Header
-Source Port      : 27060
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
-
-
-
-**********************************************************
-Packet Number 158
-
-Header
-Source Port      : 27060
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
-
-
-
-**********************************************************
-Packet Number 159
-
-Header
-Source Port      : 24387
-Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 33027
-
-
-
-**********************************************************
-Packet Number 160
-
-Header
-Source Port      : 3264
+Source Port      : 49411
 Destination Port : 53
 UDP Length       : 52
 UDP Checksum     : 65351
@@ -1761,11 +1695,77 @@ UDP Checksum     : 65351
 
 
 **********************************************************
+Packet Number 155
+
+Header
+Source Port      : 49411
+Destination Port : 53
+UDP Length       : 52
+UDP Checksum     : 65351
+
+
+
+**********************************************************
+Packet Number 156
+
+Header
+Source Port      : 17236
+Destination Port : 53
+UDP Length       : 52
+UDP Checksum     : 64222
+
+
+
+**********************************************************
+Packet Number 157
+
+Header
+Source Port      : 40894
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
+
+
+
+**********************************************************
+Packet Number 158
+
+Header
+Source Port      : 40894
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 65335
+
+
+
+**********************************************************
+Packet Number 159
+
+Header
+Source Port      : 59963
+Destination Port : 53
+UDP Length       : 36
+UDP Checksum     : 5062
+
+
+
+**********************************************************
+Packet Number 160
+
+Header
+Source Port      : 53
+Destination Port : 59963
+UDP Length       : 52
+UDP Checksum     : 24484
+
+
+
+**********************************************************
 Packet Number 161
 
 Header
-Source Port      : 3264
-Destination Port : 53
+Source Port      : 53
+Destination Port : 40894
 UDP Length       : 52
 UDP Checksum     : 65351
 
@@ -1775,10 +1775,10 @@ UDP Checksum     : 65351
 Packet Number 162
 
 Header
-Source Port      : 18925
-Destination Port : 53
+Source Port      : 53
+Destination Port : 40894
 UDP Length       : 52
-UDP Checksum     : 28266
+UDP Checksum     : 65351
 
 
 
@@ -1786,10 +1786,10 @@ UDP Checksum     : 28266
 Packet Number 163
 
 Header
-Source Port      : 36737
+Source Port      : 5960
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1797,10 +1797,10 @@ UDP Checksum     : 65349
 Packet Number 164
 
 Header
-Source Port      : 36737
+Source Port      : 5960
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 65349
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1808,10 +1808,10 @@ UDP Checksum     : 65349
 Packet Number 165
 
 Header
-Source Port      : 59115
+Source Port      : 7480
 Destination Port : 53
-UDP Length       : 50
-UDP Checksum     : 20761
+UDP Length       : 51
+UDP Checksum     : 25154
 
 
 
@@ -1819,10 +1819,10 @@ UDP Checksum     : 20761
 Packet Number 166
 
 Header
-Source Port      : 20066
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 65354
+Source Port      : 53
+Destination Port : 7480
+UDP Length       : 110
+UDP Checksum     : 15905
 
 
 
@@ -1830,10 +1830,10 @@ UDP Checksum     : 65354
 Packet Number 167
 
 Header
-Source Port      : 20066
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 65354
+Source Port      : 53
+Destination Port : 5960
+UDP Length       : 110
+UDP Checksum     : 65409
 
 
 
@@ -1841,10 +1841,10 @@ UDP Checksum     : 65354
 Packet Number 168
 
 Header
-Source Port      : 52290
-Destination Port : 53
-UDP Length       : 55
-UDP Checksum     : 17130
+Source Port      : 53
+Destination Port : 5960
+UDP Length       : 110
+UDP Checksum     : 65409
 
 
 
@@ -1852,10 +1852,10 @@ UDP Checksum     : 17130
 Packet Number 169
 
 Header
-Source Port      : 53
-Destination Port : 49760
-UDP Length       : 71
-UDP Checksum     : 58490
+Source Port      : 8342
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1863,10 +1863,10 @@ UDP Checksum     : 58490
 Packet Number 170
 
 Header
-Source Port      : 53
-Destination Port : 46262
-UDP Length       : 71
-UDP Checksum     : 65370
+Source Port      : 8342
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -1874,10 +1874,10 @@ UDP Checksum     : 65370
 Packet Number 171
 
 Header
-Source Port      : 53
-Destination Port : 46262
-UDP Length       : 71
-UDP Checksum     : 65370
+Source Port      : 10958
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 869
 
 
 
@@ -1885,10 +1885,10 @@ UDP Checksum     : 65370
 Packet Number 172
 
 Header
-Source Port      : 53
-Destination Port : 52651
-UDP Length       : 56
-UDP Checksum     : 50505
+Source Port      : 5353
+Destination Port : 5353
+UDP Length       : 48
+UDP Checksum     : 48882
 
 
 
@@ -1896,10 +1896,10 @@ UDP Checksum     : 50505
 Packet Number 173
 
 Header
-Source Port      : 53
-Destination Port : 42495
-UDP Length       : 56
-UDP Checksum     : 65355
+Source Port      : 36811
+Destination Port : 1900
+UDP Length       : 179
+UDP Checksum     : 49595
 
 
 
@@ -1908,9 +1908,9 @@ Packet Number 174
 
 Header
 Source Port      : 53
-Destination Port : 42495
-UDP Length       : 56
-UDP Checksum     : 65355
+Destination Port : 10958
+UDP Length       : 107
+UDP Checksum     : 6139
 
 
 
@@ -1918,10 +1918,10 @@ UDP Checksum     : 65355
 Packet Number 175
 
 Header
-Source Port      : 23000
-Destination Port : 53
-UDP Length       : 54
-UDP Checksum     : 65353
+Source Port      : 53
+Destination Port : 8342
+UDP Length       : 107
+UDP Checksum     : 65406
 
 
 
@@ -1929,10 +1929,10 @@ UDP Checksum     : 65353
 Packet Number 176
 
 Header
-Source Port      : 23000
-Destination Port : 53
-UDP Length       : 54
-UDP Checksum     : 65353
+Source Port      : 53
+Destination Port : 8342
+UDP Length       : 107
+UDP Checksum     : 65406
 
 
 
@@ -1940,10 +1940,10 @@ UDP Checksum     : 65353
 Packet Number 177
 
 Header
-Source Port      : 23916
+Source Port      : 7993
 Destination Port : 53
-UDP Length       : 54
-UDP Checksum     : 50065
+UDP Length       : 53
+UDP Checksum     : 65352
 
 
 
@@ -1951,10 +1951,10 @@ UDP Checksum     : 50065
 Packet Number 178
 
 Header
-Source Port      : 42292
+Source Port      : 7993
 Destination Port : 53
-UDP Length       : 47
-UDP Checksum     : 65346
+UDP Length       : 53
+UDP Checksum     : 65352
 
 
 
@@ -1962,10 +1962,10 @@ UDP Checksum     : 65346
 Packet Number 179
 
 Header
-Source Port      : 42292
+Source Port      : 63780
 Destination Port : 53
-UDP Length       : 47
-UDP Checksum     : 65346
+UDP Length       : 53
+UDP Checksum     : 27988
 
 
 
@@ -1973,10 +1973,10 @@ UDP Checksum     : 65346
 Packet Number 180
 
 Header
-Source Port      : 43672
-Destination Port : 53
-UDP Length       : 47
-UDP Checksum     : 9526
+Source Port      : 53
+Destination Port : 17236
+UDP Length       : 301
+UDP Checksum     : 12670
 
 
 
@@ -1985,9 +1985,9 @@ Packet Number 181
 
 Header
 Source Port      : 53
-Destination Port : 24387
-UDP Length       : 112
-UDP Checksum     : 54048
+Destination Port : 49411
+UDP Length       : 301
+UDP Checksum     : 65
 
 
 
@@ -1996,9 +1996,9 @@ Packet Number 182
 
 Header
 Source Port      : 53
-Destination Port : 27060
-UDP Length       : 112
-UDP Checksum     : 65411
+Destination Port : 49411
+UDP Length       : 301
+UDP Checksum     : 65
 
 
 
@@ -2006,10 +2006,10 @@ UDP Checksum     : 65411
 Packet Number 183
 
 Header
-Source Port      : 53
-Destination Port : 27060
-UDP Length       : 112
-UDP Checksum     : 65411
+Source Port      : 10608
+Destination Port : 53
+UDP Length       : 56
+UDP Checksum     : 65355
 
 
 
@@ -2017,10 +2017,10 @@ UDP Checksum     : 65411
 Packet Number 184
 
 Header
-Source Port      : 1847
+Source Port      : 10608
 Destination Port : 53
-UDP Length       : 49
-UDP Checksum     : 65348
+UDP Length       : 56
+UDP Checksum     : 65355
 
 
 
@@ -2028,10 +2028,10 @@ UDP Checksum     : 65348
 Packet Number 185
 
 Header
-Source Port      : 1847
+Source Port      : 52987
 Destination Port : 53
-UDP Length       : 49
-UDP Checksum     : 65348
+UDP Length       : 56
+UDP Checksum     : 34583
 
 
 
@@ -2039,10 +2039,10 @@ UDP Checksum     : 65348
 Packet Number 186
 
 Header
-Source Port      : 20463
+Source Port      : 6891
 Destination Port : 53
-UDP Length       : 49
-UDP Checksum     : 1245
+UDP Length       : 42
+UDP Checksum     : 65341
 
 
 
@@ -2050,10 +2050,10 @@ UDP Checksum     : 1245
 Packet Number 187
 
 Header
-Source Port      : 53
-Destination Port : 18925
-UDP Length       : 148
-UDP Checksum     : 2543
+Source Port      : 6891
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 65341
 
 
 
@@ -2061,10 +2061,10 @@ UDP Checksum     : 2543
 Packet Number 188
 
 Header
-Source Port      : 53
-Destination Port : 3264
-UDP Length       : 148
-UDP Checksum     : 65447
+Source Port      : 24086
+Destination Port : 53
+UDP Length       : 42
+UDP Checksum     : 12343
 
 
 
@@ -2073,9 +2073,9 @@ Packet Number 189
 
 Header
 Source Port      : 53
-Destination Port : 3264
-UDP Length       : 148
-UDP Checksum     : 65447
+Destination Port : 24086
+UDP Length       : 210
+UDP Checksum     : 52282
 
 
 
@@ -2084,9 +2084,9 @@ Packet Number 190
 
 Header
 Source Port      : 53
-Destination Port : 59115
-UDP Length       : 110
-UDP Checksum     : 24063
+Destination Port : 6891
+UDP Length       : 210
+UDP Checksum     : 65509
 
 
 
@@ -2095,9 +2095,9 @@ Packet Number 191
 
 Header
 Source Port      : 53
-Destination Port : 36737
-UDP Length       : 110
-UDP Checksum     : 65409
+Destination Port : 6891
+UDP Length       : 210
+UDP Checksum     : 65509
 
 
 
@@ -2105,10 +2105,10 @@ UDP Checksum     : 65409
 Packet Number 192
 
 Header
-Source Port      : 53
-Destination Port : 36737
-UDP Length       : 110
-UDP Checksum     : 65409
+Source Port      : 19020
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -2116,10 +2116,10 @@ UDP Checksum     : 65409
 Packet Number 193
 
 Header
-Source Port      : 53
-Destination Port : 52290
-UDP Length       : 183
-UDP Checksum     : 30089
+Source Port      : 19020
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 65350
 
 
 
@@ -2127,10 +2127,10 @@ UDP Checksum     : 30089
 Packet Number 194
 
 Header
-Source Port      : 53
-Destination Port : 20066
-UDP Length       : 183
-UDP Checksum     : 65482
+Source Port      : 49864
+Destination Port : 53
+UDP Length       : 51
+UDP Checksum     : 57811
 
 
 
@@ -2138,10 +2138,10 @@ UDP Checksum     : 65482
 Packet Number 195
 
 Header
-Source Port      : 53
-Destination Port : 20066
-UDP Length       : 183
-UDP Checksum     : 65482
+Source Port      : 40305
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -2149,10 +2149,10 @@ UDP Checksum     : 65482
 Packet Number 196
 
 Header
-Source Port      : 53
-Destination Port : 23916
-UDP Length       : 182
-UDP Checksum     : 27056
+Source Port      : 40305
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 65354
 
 
 
@@ -2160,10 +2160,10 @@ UDP Checksum     : 27056
 Packet Number 197
 
 Header
-Source Port      : 53
-Destination Port : 23000
-UDP Length       : 182
-UDP Checksum     : 65481
+Source Port      : 4565
+Destination Port : 53
+UDP Length       : 55
+UDP Checksum     : 60929
 
 
 
@@ -2172,9 +2172,9 @@ Packet Number 198
 
 Header
 Source Port      : 53
-Destination Port : 23000
-UDP Length       : 182
-UDP Checksum     : 65481
+Destination Port : 4565
+UDP Length       : 111
+UDP Checksum     : 24994
 
 
 
@@ -2183,9 +2183,9 @@ Packet Number 199
 
 Header
 Source Port      : 53
-Destination Port : 43672
-UDP Length       : 100
-UDP Checksum     : 41628
+Destination Port : 40305
+UDP Length       : 111
+UDP Checksum     : 65410
 
 
 
@@ -2194,9 +2194,9 @@ Packet Number 200
 
 Header
 Source Port      : 53
-Destination Port : 42292
-UDP Length       : 100
-UDP Checksum     : 65399
+Destination Port : 40305
+UDP Length       : 111
+UDP Checksum     : 65410
 
 
 
@@ -2205,9 +2205,9 @@ Packet Number 201
 
 Header
 Source Port      : 53
-Destination Port : 42292
-UDP Length       : 100
-UDP Checksum     : 65399
+Destination Port : 49864
+UDP Length       : 300
+UDP Checksum     : 32533
 
 
 
@@ -2216,9 +2216,9 @@ Packet Number 202
 
 Header
 Source Port      : 53
-Destination Port : 20463
-UDP Length       : 135
-UDP Checksum     : 43571
+Destination Port : 19020
+UDP Length       : 300
+UDP Checksum     : 64
 
 
 
@@ -2227,256 +2227,10 @@ Packet Number 203
 
 Header
 Source Port      : 53
-Destination Port : 1847
-UDP Length       : 135
-UDP Checksum     : 65434
+Destination Port : 19020
+UDP Length       : 300
+UDP Checksum     : 64
 
 
 
-**********************************************************
-Packet Number 204
-
-Header
-Source Port      : 53
-Destination Port : 1847
-UDP Length       : 135
-UDP Checksum     : 65434
-
-
-
-**********************************************************
-Packet Number 205
-
-Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 48
-UDP Checksum     : 48882
-
-
-
-**********************************************************
-Packet Number 206
-
-Header
-Source Port      : 5353
-Destination Port : 5353
-UDP Length       : 48
-UDP Checksum     : 48882
-
-
-
-**********************************************************
-Packet Number 207
-
-Header
-Source Port      : 39937
-Destination Port : 1900
-UDP Length       : 179
-UDP Checksum     : 46469
-
-
-
-**********************************************************
-Packet Number 208
-
-Header
-Source Port      : 6733
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 209
-
-Header
-Source Port      : 6733
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 210
-
-Header
-Source Port      : 65364
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 19497
-
-
-
-**********************************************************
-Packet Number 211
-
-Header
-Source Port      : 50538
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 212
-
-Header
-Source Port      : 50538
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 213
-
-Header
-Source Port      : 56601
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 32829
-
-
-
-**********************************************************
-Packet Number 214
-
-Header
-Source Port      : 27065
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 215
-
-Header
-Source Port      : 27065
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 216
-
-Header
-Source Port      : 25795
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 3830
-
-
-
-**********************************************************
-Packet Number 217
-
-Header
-Source Port      : 53
-Destination Port : 65364
-UDP Length       : 52
-UDP Checksum     : 39032
-
-
-
-**********************************************************
-Packet Number 218
-
-Header
-Source Port      : 53
-Destination Port : 6733
-UDP Length       : 52
-UDP Checksum     : 65351
-
-
-
-**********************************************************
-Packet Number 219
-
-Header
-Source Port      : 53
-Destination Port : 6733
-UDP Length       : 52
-UDP Checksum     : 65351
-
-
-
-**********************************************************
-Packet Number 220
-
-Header
-Source Port      : 31212
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 221
-
-Header
-Source Port      : 31212
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 65335
-
-
-
-**********************************************************
-Packet Number 222
-
-Header
-Source Port      : 57561
-Destination Port : 53
-UDP Length       : 36
-UDP Checksum     : 27692
-
-
-
-**********************************************************
-Packet Number 223
-
-Header
-Source Port      : 53
-Destination Port : 56601
-UDP Length       : 52
-UDP Checksum     : 52372
-
-
-
-**********************************************************
-Packet Number 224
-
-Header
-Source Port      : 53
-Destination Port : 50538
-UDP Length       : 52
-UDP Checksum     : 65351
-
-
-
-**********************************************************
-Packet Number 225
-
-Header
-Source Port      : 53
-Destination Port : 50538
-UDP Length       : 52
-UDP Checksum     : 65351
-
-
-
-**********************************************************
-Packet Number 226
-
-Header
-Source Port  
+**********************

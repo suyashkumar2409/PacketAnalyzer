@@ -58,12 +58,14 @@ Packet Number:4
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.131
 
 Authoritive Records : 0 
 
@@ -75,12 +77,14 @@ Packet Number:5
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.131
 
 Authoritive Records : 0 
 
@@ -92,12 +96,14 @@ Packet Number:6
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : id.google.co.in has alias name : id.l.google.com
+Name : id.l.google.com has IPv4 address : 216.58.203.131
 
 Authoritive Records : 0 
 
@@ -262,13 +268,12 @@ Packet Number:16
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.google.co.in has IPv4 address : 74.125.200.94
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -280,13 +285,12 @@ Packet Number:17
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.google.co.in has IPv4 address : 74.125.200.94
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -298,13 +302,12 @@ Packet Number:18
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.google.co.in has IPv4 address : 74.125.200.94
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -316,14 +319,12 @@ Packet Number:19
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : apis.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -335,14 +336,12 @@ Packet Number:20
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : apis.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -354,14 +353,12 @@ Packet Number:21
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : apis.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -424,14 +421,13 @@ Packet Number:25
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
-Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
 
 Authoritive Records : 0 
 
@@ -443,14 +439,13 @@ Packet Number:26
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
-Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
 
 Authoritive Records : 0 
 
@@ -462,14 +457,13 @@ Packet Number:27
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : lh3.googleusercontent.com has alias name : googlehosted.l.googleusercontent.com
-Name : googlehosted.l.googleusercontent.com has IPv4 address : 216.58.196.97
+Answer Records : 1 
+Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
 
 Authoritive Records : 0 
 
@@ -532,14 +526,13 @@ Packet Number:31
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : ogs.google.com has alias name : www3.l.google.com
-Name : www3.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
 
 Authoritive Records : 0 
 
@@ -551,14 +544,13 @@ Packet Number:32
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : ogs.google.com has alias name : www3.l.google.com
-Name : www3.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
 
 Authoritive Records : 0 
 
@@ -570,14 +562,13 @@ Packet Number:33
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : ogs.google.com has alias name : www3.l.google.com
-Name : www3.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 1 
+Name : images.sex.com has IPv4 address : 206.125.164.83
 
 Authoritive Records : 0 
 
@@ -640,12 +631,18 @@ Packet Number:37
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 6 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
 
 Authoritive Records : 0 
 
@@ -657,12 +654,18 @@ Packet Number:38
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 6 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
 
 Authoritive Records : 0 
 
@@ -674,12 +677,18 @@ Packet Number:39
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 6 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 6 
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
+Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
 
 Authoritive Records : 0 
 
@@ -691,12 +700,16 @@ Packet Number:40
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 4 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 4 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
 
 Authoritive Records : 0 
 
@@ -708,12 +721,16 @@ Packet Number:41
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 4 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 4 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
 
 Authoritive Records : 0 
 
@@ -725,6 +742,27 @@ Packet Number:42
 
 The response contains : 
  1 Questions.
+ 4 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 4 
+Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+Name : www-google-analytics.l.google.com has IPv4 address : 216.58.199.174
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:43
+
+
+The response contains : 
+ 1 Questions.
  0 Answers.
  0 Authoritative Servers.
  0 Additional records.
@@ -737,36 +775,17 @@ Authoritive Records : 0
 Additional Records : 0 
 **********************************************************
 
-Packet Number:43
-
-
-The response contains : 
- 1 Questions.
- 1 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
-
-
-Answer Records : 1 
-Name : farms.com has IPv4 address : 216.220.44.168
-
-Authoritive Records : 0 
-
-Additional Records : 0 
-**********************************************************
-
 Packet Number:44
 
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : farms.com has IPv4 address : 216.220.44.168
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -778,13 +797,12 @@ Packet Number:45
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : farms.com has IPv4 address : 216.220.44.168
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -796,16 +814,26 @@ Packet Number:46
 
 The response contains : 
  1 Questions.
- 2 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : id.google.co.in has alias name : id.l.google.com
-Name : id.l.google.com has IPv4 address : 216.58.203.163
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-1041.awsdns-02.org
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-162.awsdns-20.com
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-2041.awsdns-63.co.uk
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-875.awsdns-45.net
 
 Additional Records : 0 
 **********************************************************
@@ -815,16 +843,26 @@ Packet Number:47
 
 The response contains : 
  1 Questions.
- 2 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : id.google.co.in has alias name : id.l.google.com
-Name : id.l.google.com has IPv4 address : 216.58.203.163
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-1041.awsdns-02.org
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-162.awsdns-20.com
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-2041.awsdns-63.co.uk
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-875.awsdns-45.net
 
 Additional Records : 0 
 **********************************************************
@@ -834,16 +872,26 @@ Packet Number:48
 
 The response contains : 
  1 Questions.
- 2 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : id.google.co.in has alias name : id.l.google.com
-Name : id.l.google.com has IPv4 address : 216.58.203.163
+Answer Records : 8 
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
+Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-1041.awsdns-02.org
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-162.awsdns-20.com
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-2041.awsdns-63.co.uk
+Name : d31qbv1cthcecs.cloudfront.net has nameserver : ns-875.awsdns-45.net
 
 Additional Records : 0 
 **********************************************************
@@ -854,15 +902,19 @@ Packet Number:49
 The response contains : 
  1 Questions.
  2 Answers.
- 0 Authoritative Servers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
 Answer Records : 2 
-Name : notifications.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : fastly.net has nameserver : ns1.fastly.net
+Name : fastly.net has nameserver : ns2.fastly.net
+Name : fastly.net has nameserver : ns3.fastly.net
+Name : fastly.net has nameserver : ns4.fastly.net
 
 Additional Records : 0 
 **********************************************************
@@ -872,14 +924,17 @@ Packet Number:50
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 5 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : notifications.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.156
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.157
 
 Authoritive Records : 0 
 
@@ -892,15 +947,19 @@ Packet Number:51
 The response contains : 
  1 Questions.
  2 Answers.
- 0 Authoritative Servers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
 Answer Records : 2 
-Name : notifications.google.com has alias name : plus.l.google.com
-Name : plus.l.google.com has IPv4 address : 216.58.203.174
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : fastly.net has nameserver : ns1.fastly.net
+Name : fastly.net has nameserver : ns2.fastly.net
+Name : fastly.net has nameserver : ns3.fastly.net
+Name : fastly.net has nameserver : ns4.fastly.net
 
 Additional Records : 0 
 **********************************************************
@@ -910,14 +969,20 @@ Packet Number:52
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 2 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
+Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : fastly.net has nameserver : ns1.fastly.net
+Name : fastly.net has nameserver : ns2.fastly.net
+Name : fastly.net has nameserver : ns3.fastly.net
+Name : fastly.net has nameserver : ns4.fastly.net
 
 Additional Records : 0 
 **********************************************************
@@ -927,12 +992,17 @@ Packet Number:53
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 5 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.156
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.157
 
 Authoritive Records : 0 
 
@@ -944,12 +1014,17 @@ Packet Number:54
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 5 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 5 
+Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.156
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.155
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.154
+Name : stats.l.doubleclick.net has IPv4 address : 74.125.68.157
 
 Authoritive Records : 0 
 
@@ -961,14 +1036,17 @@ Packet Number:55
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 1 Answers.
+ 2 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : sex.com has nameserver : ns1.hostlogistic.com
+Name : sex.com has nameserver : ns2.hostlogistic.com
 
 Additional Records : 0 
 **********************************************************
@@ -978,14 +1056,17 @@ Packet Number:56
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 1 Answers.
+ 2 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : sex.com has nameserver : ns1.hostlogistic.com
+Name : sex.com has nameserver : ns2.hostlogistic.com
 
 Additional Records : 0 
 **********************************************************
@@ -995,14 +1076,17 @@ Packet Number:57
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 1 Answers.
+ 2 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : www.sex.com has IPv4 address : 206.125.164.82
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : sex.com has nameserver : ns1.hostlogistic.com
+Name : sex.com has nameserver : ns2.hostlogistic.com
 
 Additional Records : 0 
 **********************************************************
@@ -1012,13 +1096,12 @@ Packet Number:58
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.gstatic.com has IPv4 address : 216.58.203.163
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1030,13 +1113,12 @@ Packet Number:59
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.gstatic.com has IPv4 address : 216.58.203.163
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1048,13 +1130,12 @@ Packet Number:60
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.gstatic.com has IPv4 address : 216.58.203.163
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1066,14 +1147,12 @@ Packet Number:61
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.farms.com has alias name : farms.com
-Name : farms.com has IPv4 address : 216.220.44.168
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1085,14 +1164,12 @@ Packet Number:62
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.farms.com has alias name : farms.com
-Name : farms.com has IPv4 address : 216.220.44.168
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1104,14 +1181,12 @@ Packet Number:63
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.farms.com has alias name : farms.com
-Name : farms.com has IPv4 address : 216.220.44.168
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1174,12 +1249,14 @@ Packet Number:67
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : ads.adamoads.com has IPv4 address : 104.20.37.189
+Name : ads.adamoads.com has IPv4 address : 104.20.25.189
 
 Authoritive Records : 0 
 
@@ -1191,12 +1268,13 @@ Packet Number:68
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1208,12 +1286,14 @@ Packet Number:69
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : ads.adamoads.com has IPv4 address : 104.20.37.189
+Name : ads.adamoads.com has IPv4 address : 104.20.25.189
 
 Authoritive Records : 0 
 
@@ -1225,12 +1305,14 @@ Packet Number:70
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : ads.adamoads.com has IPv4 address : 104.20.37.189
+Name : ads.adamoads.com has IPv4 address : 104.20.25.189
 
 Authoritive Records : 0 
 
@@ -1242,12 +1324,13 @@ Packet Number:71
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1259,12 +1342,13 @@ Packet Number:72
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ar.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1429,14 +1513,13 @@ Packet Number:82
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 1 
+Name : es.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1448,14 +1531,13 @@ Packet Number:83
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 1 
+Name : es.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1467,14 +1549,13 @@ Packet Number:84
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 1 
+Name : es.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1537,14 +1618,13 @@ Packet Number:88
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
-Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+Answer Records : 1 
+Name : fr.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1556,14 +1636,13 @@ Packet Number:89
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 1 
+Name : fr.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1575,14 +1654,13 @@ Packet Number:90
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
-Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+Answer Records : 1 
+Name : fr.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1594,14 +1672,12 @@ Packet Number:91
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
-Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.197.65
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1613,14 +1689,12 @@ Packet Number:92
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1632,14 +1706,12 @@ Packet Number:93
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1651,20 +1723,23 @@ Packet Number:94
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 3 Answers.
+ 2 Authoritative Servers.
+ 2 Additional records.
 
 
-Answer Records : 4 
-Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : llnwd.net has nameserver : dns13.llnwd.net
+Name : llnwd.net has nameserver : dns12.llnwd.net
 
-Additional Records : 0 
+Additional Records : 2 
+Name : dns11.llnwd.net has IPv4 address : 69.28.143.11
+Name : dns14.llnwd.net has IPv4 address : 69.28.143.14
 **********************************************************
 
 Packet Number:95
@@ -1672,20 +1747,23 @@ Packet Number:95
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 3 Answers.
+ 2 Authoritative Servers.
+ 2 Additional records.
 
 
-Answer Records : 4 
-Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : llnwd.net has nameserver : dns13.llnwd.net
+Name : llnwd.net has nameserver : dns12.llnwd.net
 
-Additional Records : 0 
+Additional Records : 2 
+Name : dns11.llnwd.net has IPv4 address : 69.28.143.11
+Name : dns14.llnwd.net has IPv4 address : 69.28.143.14
 **********************************************************
 
 Packet Number:96
@@ -1693,20 +1771,23 @@ Packet Number:96
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 3 Answers.
+ 2 Authoritative Servers.
+ 2 Additional records.
 
 
-Answer Records : 4 
-Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Answer Records : 3 
+Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
+Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : llnwd.net has nameserver : dns13.llnwd.net
+Name : llnwd.net has nameserver : dns12.llnwd.net
 
-Additional Records : 0 
+Additional Records : 2 
+Name : dns11.llnwd.net has IPv4 address : 69.28.143.11
+Name : dns14.llnwd.net has IPv4 address : 69.28.143.14
 **********************************************************
 
 Packet Number:97
@@ -1714,16 +1795,13 @@ Packet Number:97
 
 The response contains : 
  1 Questions.
- 4 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Answer Records : 1 
+Name : it.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1735,16 +1813,13 @@ Packet Number:98
 
 The response contains : 
  1 Questions.
- 4 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Answer Records : 1 
+Name : it.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1756,16 +1831,13 @@ Packet Number:99
 
 The response contains : 
  1 Questions.
- 4 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
-Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Answer Records : 1 
+Name : it.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1828,14 +1900,20 @@ Packet Number:103
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 2 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.77.181.9
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.74.181.215
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : voluumtrk2.com has nameserver : ns-1395.awsdns-46.org
+Name : voluumtrk2.com has nameserver : ns-1564.awsdns-03.co.uk
+Name : voluumtrk2.com has nameserver : ns-389.awsdns-48.com
+Name : voluumtrk2.com has nameserver : ns-751.awsdns-29.net
 
 Additional Records : 0 
 **********************************************************
@@ -1845,14 +1923,20 @@ Packet Number:104
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 2 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.77.181.9
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.74.181.215
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : voluumtrk2.com has nameserver : ns-1395.awsdns-46.org
+Name : voluumtrk2.com has nameserver : ns-1564.awsdns-03.co.uk
+Name : voluumtrk2.com has nameserver : ns-389.awsdns-48.com
+Name : voluumtrk2.com has nameserver : ns-751.awsdns-29.net
 
 Additional Records : 0 
 **********************************************************
@@ -1862,14 +1946,20 @@ Packet Number:105
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 2 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.77.181.9
+Name : gevfh.voluumtrk2.com has IPv4 address : 52.74.181.215
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : voluumtrk2.com has nameserver : ns-1395.awsdns-46.org
+Name : voluumtrk2.com has nameserver : ns-1564.awsdns-03.co.uk
+Name : voluumtrk2.com has nameserver : ns-389.awsdns-48.com
+Name : voluumtrk2.com has nameserver : ns-751.awsdns-29.net
 
 Additional Records : 0 
 **********************************************************
@@ -1879,14 +1969,12 @@ Packet Number:106
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1898,14 +1986,12 @@ Packet Number:107
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1917,14 +2003,12 @@ Packet Number:108
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
-Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.199.130
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -1936,14 +2020,13 @@ Packet Number:109
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
-Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+Answer Records : 1 
+Name : pl.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1955,14 +2038,13 @@ Packet Number:110
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
-Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+Answer Records : 1 
+Name : pl.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -1974,14 +2056,13 @@ Packet Number:111
 
 The response contains : 
  1 Questions.
- 2 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 2 
-Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
-Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.197.34
+Answer Records : 1 
+Name : pl.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2044,13 +2125,12 @@ Packet Number:115
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : google.com has IPv4 address : 216.58.199.142
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2062,13 +2142,12 @@ Packet Number:116
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : google.com has IPv4 address : 216.58.199.142
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2080,13 +2159,12 @@ Packet Number:117
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : google.com has IPv4 address : 216.58.199.142
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2098,12 +2176,13 @@ Packet Number:118
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ru.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2115,12 +2194,13 @@ Packet Number:119
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ru.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2132,12 +2212,13 @@ Packet Number:120
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : ru.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2200,15 +2281,26 @@ Packet Number:124
 
 The response contains : 
  1 Questions.
- 1 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1081.awsdns-07.org
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1691.awsdns-19.co.uk
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-401.awsdns-50.com
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-894.awsdns-47.net
 
 Additional Records : 0 
 **********************************************************
@@ -2218,15 +2310,26 @@ Packet Number:125
 
 The response contains : 
  1 Questions.
- 1 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.google.com has IPv4 address : 172.217.27.36
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1081.awsdns-07.org
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1691.awsdns-19.co.uk
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-401.awsdns-50.com
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-894.awsdns-47.net
 
 Additional Records : 0 
 **********************************************************
@@ -2236,15 +2339,26 @@ Packet Number:126
 
 The response contains : 
  1 Questions.
- 1 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+Answer Records : 8 
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
+Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1081.awsdns-07.org
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-1691.awsdns-19.co.uk
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-401.awsdns-50.com
+Name : d5nxst8fruw4z.cloudfront.net has nameserver : ns-894.awsdns-47.net
 
 Additional Records : 0 
 **********************************************************
@@ -2255,14 +2369,22 @@ Packet Number:127
 The response contains : 
  1 Questions.
  1 Answers.
- 0 Authoritative Servers.
+ 8 Authoritative Servers.
  0 Additional records.
 
 
 Answer Records : 1 
-Name : ssl.gstatic.com has IPv4 address : 216.58.203.163
+Name : twitter.com has IPv4 address : 104.244.42.65
 
-Authoritive Records : 0 
+Authoritive Records : 8 
+Name : twitter.com has nameserver : d01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns2.p34.dynect.net
+Name : twitter.com has nameserver : d01-01.ns.twtrdns.net
+Name : twitter.com has nameserver : ns4.p34.dynect.net
+Name : twitter.com has nameserver : r01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns1.p34.dynect.net
+Name : twitter.com has nameserver : ns3.p34.dynect.net
+Name : twitter.com has nameserver : r01-01.ns.twtrdns.net
 
 Additional Records : 0 
 **********************************************************
@@ -2273,14 +2395,22 @@ Packet Number:128
 The response contains : 
  1 Questions.
  1 Answers.
- 0 Authoritative Servers.
+ 8 Authoritative Servers.
  0 Additional records.
 
 
 Answer Records : 1 
-Name : www.google.com has IPv4 address : 172.217.27.36
+Name : twitter.com has IPv4 address : 104.244.42.65
 
-Authoritive Records : 0 
+Authoritive Records : 8 
+Name : twitter.com has nameserver : d01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns2.p34.dynect.net
+Name : twitter.com has nameserver : d01-01.ns.twtrdns.net
+Name : twitter.com has nameserver : ns4.p34.dynect.net
+Name : twitter.com has nameserver : r01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns1.p34.dynect.net
+Name : twitter.com has nameserver : ns3.p34.dynect.net
+Name : twitter.com has nameserver : r01-01.ns.twtrdns.net
 
 Additional Records : 0 
 **********************************************************
@@ -2291,14 +2421,22 @@ Packet Number:129
 The response contains : 
  1 Questions.
  1 Answers.
- 0 Authoritative Servers.
+ 8 Authoritative Servers.
  0 Additional records.
 
 
 Answer Records : 1 
-Name : www.google.com has IPv4 address : 172.217.27.36
+Name : twitter.com has IPv4 address : 104.244.42.65
 
-Authoritive Records : 0 
+Authoritive Records : 8 
+Name : twitter.com has nameserver : d01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns2.p34.dynect.net
+Name : twitter.com has nameserver : d01-01.ns.twtrdns.net
+Name : twitter.com has nameserver : ns4.p34.dynect.net
+Name : twitter.com has nameserver : r01-02.ns.twtrdns.net
+Name : twitter.com has nameserver : ns1.p34.dynect.net
+Name : twitter.com has nameserver : ns3.p34.dynect.net
+Name : twitter.com has nameserver : r01-01.ns.twtrdns.net
 
 Additional Records : 0 
 **********************************************************
@@ -2359,18 +2497,26 @@ Packet Number:133
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
-Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+Answer Records : 8 
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.235
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.241
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.81
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.8
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.43
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.121
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.102
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : cloudfront.net has nameserver : ns-1306.awsdns-35.org
+Name : cloudfront.net has nameserver : ns-1597.awsdns-07.co.uk
+Name : cloudfront.net has nameserver : ns-418.awsdns-52.com
+Name : cloudfront.net has nameserver : ns-666.awsdns-19.net
 
 Additional Records : 0 
 **********************************************************
@@ -2380,18 +2526,26 @@ Packet Number:134
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
-Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+Answer Records : 8 
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.235
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.241
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.81
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.8
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.43
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.121
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.102
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : cloudfront.net has nameserver : ns-1306.awsdns-35.org
+Name : cloudfront.net has nameserver : ns-1597.awsdns-07.co.uk
+Name : cloudfront.net has nameserver : ns-418.awsdns-52.com
+Name : cloudfront.net has nameserver : ns-666.awsdns-19.net
 
 Additional Records : 0 
 **********************************************************
@@ -2401,18 +2555,26 @@ Packet Number:135
 
 The response contains : 
  1 Questions.
- 4 Answers.
- 0 Authoritative Servers.
+ 8 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 4 
-Name : clientmetrics-pa.googleapis.com has alias name : googleapis.l.google.com
-Name : googleapis.l.google.com has IPv4 address : 74.125.200.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.68.95
-Name : googleapis.l.google.com has IPv4 address : 74.125.130.95
+Answer Records : 8 
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.235
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.241
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.81
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.8
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.43
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.121
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.102
+Name : af024120b90af8fc3efb96bf7f041d69f.profile.gig50.cloudfront.net has IPv4 address : 52.85.167.207
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : cloudfront.net has nameserver : ns-1306.awsdns-35.org
+Name : cloudfront.net has nameserver : ns-1597.awsdns-07.co.uk
+Name : cloudfront.net has nameserver : ns-418.awsdns-52.com
+Name : cloudfront.net has nameserver : ns-666.awsdns-19.net
 
 Additional Records : 0 
 **********************************************************
@@ -2473,13 +2635,12 @@ Packet Number:139
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2491,13 +2652,12 @@ Packet Number:140
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2509,13 +2669,12 @@ Packet Number:141
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : www.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2731,12 +2890,13 @@ Packet Number:154
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : pt.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2748,12 +2908,13 @@ Packet Number:155
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : pt.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2765,12 +2926,13 @@ Packet Number:156
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 1 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 1 
+Name : pt.sex.com has IPv4 address : 206.125.164.82
 
 Authoritive Records : 0 
 
@@ -2833,13 +2995,14 @@ Packet Number:160
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.220.193
 
 Authoritive Records : 0 
 
@@ -2851,13 +3014,14 @@ Packet Number:161
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.220.193
 
 Authoritive Records : 0 
 
@@ -2869,13 +3033,14 @@ Packet Number:162
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : cloudfront-labs.amazonaws.com has IPv4 address : 72.21.202.25
+Answer Records : 2 
+Name : tpc.googlesyndication.com has alias name : pagead-googlehosted.l.google.com
+Name : pagead-googlehosted.l.google.com has IPv4 address : 216.58.220.193
 
 Authoritive Records : 0 
 
@@ -2887,13 +3052,12 @@ Packet Number:163
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : images.sex.com has IPv4 address : 206.125.164.83
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2905,13 +3069,12 @@ Packet Number:164
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : images.sex.com has IPv4 address : 206.125.164.83
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2923,13 +3086,12 @@ Packet Number:165
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : images.sex.com has IPv4 address : 206.125.164.83
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -2941,12 +3103,14 @@ Packet Number:166
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -2958,12 +3122,14 @@ Packet Number:167
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -2975,12 +3141,14 @@ Packet Number:168
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : www.googletagservices.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3043,17 +3211,22 @@ Packet Number:172
 
 The response contains : 
  1 Questions.
- 3 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 3 
-Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3063,17 +3236,22 @@ Packet Number:173
 
 The response contains : 
  1 Questions.
- 3 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 3 
-Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3083,17 +3261,22 @@ Packet Number:174
 
 The response contains : 
  1 Questions.
- 3 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 3 
-Name : media.trafficfactory.biz has alias name : wpn.hs.llnwd.net
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.57
-Name : wpn.hs.llnwd.net has IPv4 address : 117.121.250.162
+Answer Records : 4 
+Name : shared.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3154,18 +3337,12 @@ Packet Number:178
 
 The response contains : 
  1 Questions.
- 6 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 6 
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3177,18 +3354,12 @@ Packet Number:179
 
 The response contains : 
  1 Questions.
- 6 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 6 
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3200,18 +3371,12 @@ Packet Number:180
 
 The response contains : 
  1 Questions.
- 6 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 6 
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.20
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.27
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.17
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.28
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.18
-Name : rpc-php.trafficfactory.biz has IPv4 address : 141.0.174.19
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3224,17 +3389,23 @@ Packet Number:181
 The response contains : 
  1 Questions.
  2 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 2 Authoritative Servers.
+ 4 Additional records.
 
 
 Answer Records : 2 
-Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
-Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+Name : www.facebook.com has alias name : star-mini.c10r.facebook.com
+Name : star-mini.c10r.facebook.com has IPv4 address : 157.240.13.35
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : c10r.facebook.com has nameserver : a.ns.c10r.facebook.com
+Name : c10r.facebook.com has nameserver : b.ns.c10r.facebook.com
 
-Additional Records : 0 
+Additional Records : 4 
+Name : a.ns.c10r.facebook.com 
+Name :  
+Name :  
+Name :  
 **********************************************************
 
 Packet Number:182
@@ -3243,17 +3414,23 @@ Packet Number:182
 The response contains : 
  1 Questions.
  2 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 2 Authoritative Servers.
+ 4 Additional records.
 
 
 Answer Records : 2 
-Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
-Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+Name : www.facebook.com has alias name : star-mini.c10r.facebook.com
+Name : star-mini.c10r.facebook.com has IPv4 address : 157.240.13.35
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : c10r.facebook.com has nameserver : a.ns.c10r.facebook.com
+Name : c10r.facebook.com has nameserver : b.ns.c10r.facebook.com
 
-Additional Records : 0 
+Additional Records : 4 
+Name : a.ns.c10r.facebook.com 
+Name :  
+Name :  
+Name :  
 **********************************************************
 
 Packet Number:183
@@ -3262,17 +3439,23 @@ Packet Number:183
 The response contains : 
  1 Questions.
  2 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
+ 2 Authoritative Servers.
+ 4 Additional records.
 
 
 Answer Records : 2 
-Name : www.google-analytics.com has alias name : www-google-analytics.l.google.com
-Name : www-google-analytics.l.google.com has IPv4 address : 216.58.203.174
+Name : www.facebook.com has alias name : star-mini.c10r.facebook.com
+Name : star-mini.c10r.facebook.com has IPv4 address : 157.240.13.35
 
-Authoritive Records : 0 
+Authoritive Records : 2 
+Name : c10r.facebook.com has nameserver : a.ns.c10r.facebook.com
+Name : c10r.facebook.com has nameserver : b.ns.c10r.facebook.com
 
-Additional Records : 0 
+Additional Records : 4 
+Name : a.ns.c10r.facebook.com 
+Name :  
+Name :  
+Name :  
 **********************************************************
 
 Packet Number:184
@@ -3280,20 +3463,12 @@ Packet Number:184
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3305,20 +3480,12 @@ Packet Number:185
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3330,20 +3497,12 @@ Packet Number:186
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.211
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.41
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.190
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.176
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.213
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.162
-Name : d31qbv1cthcecs.cloudfront.net has IPv4 address : 52.84.102.110
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3355,20 +3514,12 @@ Packet Number:187
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3380,20 +3531,12 @@ Packet Number:188
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3405,20 +3548,12 @@ Packet Number:189
 
 The response contains : 
  1 Questions.
- 8 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 8 
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.230
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.218
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.154
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.146
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.16
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.27
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.56
-Name : d5nxst8fruw4z.cloudfront.net has IPv4 address : 52.84.102.143
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3436,8 +3571,8 @@ The response contains :
 
 
 Answer Records : 2 
-Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
-Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3455,8 +3590,8 @@ The response contains :
 
 
 Answer Records : 2 
-Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
-Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3474,8 +3609,8 @@ The response contains :
 
 
 Answer Records : 2 
-Name : js-agent.newrelic.com has alias name : d.ssl.global.fastly.net
-Name : d.ssl.global.fastly.net has IPv4 address : 151.101.36.207
+Name : pagead2.googlesyndication.com has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3487,19 +3622,22 @@ Packet Number:193
 
 The response contains : 
  1 Questions.
- 5 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 5 
-Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3509,19 +3647,22 @@ Packet Number:194
 
 The response contains : 
  1 Questions.
- 5 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 5 
-Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3531,19 +3672,22 @@ Packet Number:195
 
 The response contains : 
  1 Questions.
- 5 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 5 
-Name : stats.g.doubleclick.net has alias name : stats.l.doubleclick.net
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.154
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.155
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.157
-Name : stats.l.doubleclick.net has IPv4 address : 74.125.130.156
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3604,14 +3748,22 @@ Packet Number:199
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3621,14 +3773,22 @@ Packet Number:200
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3638,14 +3798,22 @@ Packet Number:201
 
 The response contains : 
  1 Questions.
- 0 Answers.
- 0 Authoritative Servers.
+ 4 Answers.
+ 4 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 4 
+Name : farms.websol.barchart.com has alias name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 107.22.245.46
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 23.21.83.207
+Name : websol-elb-new-1762925000.us-east-1.elb.amazonaws.com has IPv4 address : 54.243.101.68
 
-Authoritive Records : 0 
+Authoritive Records : 4 
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1119.awsdns-11.org
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-1793.awsdns-32.co.uk
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-235.awsdns-29.com
+Name : us-east-1.elb.amazonaws.com has nameserver : ns-934.awsdns-52.net
 
 Additional Records : 0 
 **********************************************************
@@ -3655,12 +3823,14 @@ Packet Number:202
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3672,12 +3842,14 @@ Packet Number:203
 
 The response contains : 
  1 Questions.
- 0 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 0 
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
 
 Authoritive Records : 0 
 
@@ -3689,6 +3861,25 @@ Packet Number:204
 
 The response contains : 
  1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : googleads.g.doubleclick.net has alias name : pagead46.l.doubleclick.net
+Name : pagead46.l.doubleclick.net has IPv4 address : 216.58.220.162
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:205
+
+
+The response contains : 
+ 1 Questions.
  0 Answers.
  0 Authoritative Servers.
  0 Additional records.
@@ -3701,36 +3892,17 @@ Authoritive Records : 0
 Additional Records : 0 
 **********************************************************
 
-Packet Number:205
-
-
-The response contains : 
- 1 Questions.
- 1 Answers.
- 0 Authoritative Servers.
- 0 Additional records.
-
-
-Answer Records : 1 
-Name : ar.sex.com has IPv4 address : 206.125.164.82
-
-Authoritive Records : 0 
-
-Additional Records : 0 
-**********************************************************
-
 Packet Number:206
 
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : ar.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3742,13 +3914,12 @@ Packet Number:207
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 0 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : ar.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 0 
 
 Authoritive Records : 0 
 
@@ -3811,13 +3982,14 @@ Packet Number:211
 
 The response contains : 
  1 Questions.
- 1 Answers.
+ 2 Answers.
  0 Authoritative Servers.
  0 Additional records.
 
 
-Answer Records : 1 
-Name : de.sex.com has IPv4 address : 206.125.164.82
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.220.194
 
 Authoritive Records : 0 
 
@@ -3828,4 +4000,31 @@ Packet Number:212
 
 
 The response contains : 
- 1 Questi
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.220.194
+
+Authoritive Records : 0 
+
+Additional Records : 0 
+**********************************************************
+
+Packet Number:213
+
+
+The response contains : 
+ 1 Questions.
+ 2 Answers.
+ 0 Authoritative Servers.
+ 0 Additional records.
+
+
+Answer Records : 2 
+Name : securepubads.g.doubleclick.net has alias name : partnerad.l.doubleclick.net
+Name : partnerad.l.doubleclick.net has IPv4 address : 216.58.2
